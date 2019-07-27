@@ -1,0 +1,9 @@
+.AirQualityListItem {
+    border: 1px solid red;
+    height: 30px;
+    padding: 5px;
+}
+
+.AirQualityListItem span {
+    margin: 10px;
+}
